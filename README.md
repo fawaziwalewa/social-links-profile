@@ -33,7 +33,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://github.com/fawaziwalewa/social-links-profile/)
 - Live Site URL: [Social Links Profile Live Demo](https://fawaziwalewa.github.io/social-links-profile/)
 
 ## My Process
