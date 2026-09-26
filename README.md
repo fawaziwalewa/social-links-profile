@@ -71,7 +71,7 @@ In future projects, I want to focus more on improving accessibility for screen r
 - Website - [Fawaz Iwalewa](https://iwaola.me)
 - Frontend Mentor - [@fawaziwalewa](https://www.frontendmentor.io/profile/fawaziwalewa)
 - GitHub - [fawaziwalewa](https://github.com/fawaziwalewa)
-- Twitter - [@iwalewafawaz](https://twitter.com/iwalewafawaz)
+- Twitter - [@iwalewa_fawaz](https://x.com/iwalewa_fawaz)
 
 ## Acknowledgments
 
